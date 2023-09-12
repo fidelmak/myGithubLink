@@ -1,16 +1,24 @@
-# task
+# My Awesome Mobile App
 
-A new Flutter project.
+Welcome to My Awesome Mobile App! This app showcases my profile picture and provides convenient links to my GitHub repositories and profile.
+
+![App Screenshot](screenshots/app_screenshot.png)
+
+## Features
+
+- View my profile picture.
+- Quickly access my GitHub repositories.
+- Visit my GitHub profile.
+
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this app, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone this repository to your local machine:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   git clone https://github.com/your-username/awesome-mobile-app.git
