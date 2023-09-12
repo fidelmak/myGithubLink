@@ -20,7 +20,9 @@ also
 ## Screenshots
 
 ![image](https://github.com/fidelmak/myGithubLink/assets/64453973/862dadac-ecf7-482a-a727-af9d2ae39982)
+## preview the app on 
 
+https://appetize.io/app/w6ozhothay4te7dyxrc2s4p3fy?device=pixel4&osVersion=11.0&scale=75
 
 ## Getting Started
 
