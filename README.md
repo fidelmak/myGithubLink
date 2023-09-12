@@ -2,7 +2,14 @@
 
 Welcome to My Awesome Mobile App! This app showcases my profile picture and provides convenient links to my GitHub repositories and profile.
 
-![App Screenshot](screenshots/app_screenshot.png)
+![image](https://github.com/fidelmak/myGithubLink/assets/64453973/ef9a10e8-041c-41a0-852b-a69f49a2536e)
+
+
+also 
+
+![image](https://github.com/fidelmak/myGithubLink/assets/64453973/ead8e4a1-a5f7-4a04-b7ed-d12b82d5c3b1)
+
+
 
 ## Features
 
@@ -12,7 +19,8 @@ Welcome to My Awesome Mobile App! This app showcases my profile picture and prov
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![image](https://github.com/fidelmak/myGithubLink/assets/64453973/862dadac-ecf7-482a-a727-af9d2ae39982)
+
 
 ## Getting Started
 
@@ -21,4 +29,4 @@ To get started with this app, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/awesome-mobile-app.git
+   git clone https://github.com/fidelmak/myGithubLink
