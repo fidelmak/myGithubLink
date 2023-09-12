@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
 class WebViewContainer extends StatefulWidget {
-  // Specify the data type for the URL (String)
+  // URL (String)
 
   @override
   _WebViewContainerState createState() => _WebViewContainerState();
