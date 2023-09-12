@@ -1,10 +1,8 @@
-//import 'package:create_x/model/tasksData.dart';
+//
 import 'package:flutter/material.dart';
 
 import 'tasks/my_card.dart';
-//import 'package:provider/provider.dart';
-//import 'screens/task_screen.dart';
-//import 'task/my_card.dart';
+//impo
 
 void main() {
   runApp(const CreateTask());
